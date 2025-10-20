@@ -5,8 +5,7 @@ Most of those transactions are in the "technology" category, and they are copier
 
 
 Ship Mode Frequency
-![Ship Mode Chart]([https://github.com/julialorrayne/Projects-images/blob/main/superstore/ship%20mode.png?raw=tr](https://github.com/julialorrayne/Projects-images/blob/main/superstore/ship%20mode.png?raw=tr)ue)
-
+![ship mode frequency](https://github.com/julialorrayne/Projects-images/blob/main/superstore/ship%20mode.png?raw=true)
 
 Sales Amount By Ship Mode
 ![ship mode sales](https://github.com/julialorrayne/Projects-images/blob/main/superstore/ship%20mode%20sales.png?raw=true)
