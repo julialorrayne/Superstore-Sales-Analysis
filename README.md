@@ -1,45 +1,108 @@
-# Superstore-Sales-Analysis
-Top 5 Most Profitable Transactions
+# Superstore Sales Analysis  
+
+**Tools Used:** Python, Pandas, Plotly, Matplotlib  
+**Techniques:** Exploratory Data Analysis (EDA), Correlation Analysis, Data Visualization, Business Insights  
+
+---
+
+## Project Overview  
+This project analyzes the **Superstore** dataset to uncover key insights on **sales performance**, **profitability**, and **shipping trends** across regions.  
+
+The goal is to identify profit drivers, evaluate shipping efficiency, and provide data-driven recommendations to optimize business decisions.  
+
+---
+
+## Key Insights  
+
+### **1. Top 5 Most Profitable Transactions**
 ![Most Profitable products table](https://github.com/julialorrayne/Projects-images/blob/main/superstore/5%20most%20profitable.png?raw=true)
-Most of those transactions are in the "technology" category, and they are copiers and binders. Two of the most profitable regions are central. On top of that, most of those transactions are from the customer segment. The company should focus on those categories since they're the most profitable ones.
+- The **Technology** category dominates the top profitable sales — especially *Copiers* and *Binders*.  
+- The **Central** and **West** regions lead in profitability.  
+- Most of these high-profit transactions come from **Consumer** segment customers.  
 
+**Recommendation:**  
+Focus on the **Technology category** and **Consumer segment** in profitable regions to sustain high margins.
 
-Ship Mode Frequency
+---
+
+### **2. Shipping Mode Analysis**
+
+#### **Ship Mode Frequency**
 ![ship mode frequency](https://github.com/julialorrayne/Projects-images/blob/main/superstore/ship%20mode.png?raw=true)
+- **Standard Class** is the most used shipping mode, accounting for most orders.  
+- **Second Class** and **First Class** follow, while **Same Day** is used the least.
 
-Sales Amount By Ship Mode
+#### **Sales Amount by Ship Mode**
 ![ship mode sales](https://github.com/julialorrayne/Projects-images/blob/main/superstore/ship%20mode%20sales.png?raw=true)
-Although the 'Standard' shipping mode is the most frequently used, the 'Same Day' shipping mode generates the highest sales. The company may want to prioritize both: focusing on the 'Standard' shipping mode to maintain volume and the 'Same Day' mode to maximize profitability.
+- Despite fewer transactions, **Same Day** shipping generates the **highest total sales**, indicating higher-value orders.
 
+**Recommendation:**  
+- Continue prioritizing *Standard Class* for volume and customer satisfaction.  
+- Expand *Same Day* delivery for high-value customers to increase profitability.
 
+---
+
+### **3. Regional Analysis**
+
+#### **Order Frequency by Ship Mode and Region**
 ![order frequency by ship mode and region](https://github.com/julialorrayne/Projects-images/blob/main/superstore/order%20frequency%20by%20ship%20mode%20and%20region.png?raw=true)
-In all regions, Standard Class in the most frequent ship mode, followed by Second Class and then First Class.
+- Across all regions, **Standard Class** dominates, followed by **Second Class** and **First Class**.
 
-
+#### **Sales by Region and Ship Mode**
 ![sales by ship mode and region](https://github.com/julialorrayne/Projects-images/blob/main/superstore/sales%20by%20ship%20mode%20and%20region.png?raw=true)
+- **East** and **West** regions generate the highest total sales.  
+- **South** underperforms in both sales and profit.
 
-Same as frequency of sales, in all regions, Standard Class ship mode generates the highest level of sales, followed by Second Class and then First Class.
+**Recommendation:**  
+Investigate operational costs, discounting, and product mix in the South region to identify reasons for low profitability.
 
-The superstore should focus on standard and Second class since those are the ones that generate highest sales.
+---
 
-
+### **4. Monthly Sales Trend**
 ![monthly sales trend by ship mode](https://github.com/julialorrayne/Projects-images/blob/main/superstore/monthly%20sales%20trend%20by%20ship%20mode.png?raw=true)
-There are peaks in sales during certain months, such as 3,5,9,and 11, which could be due to promotional periods, holidays, or seasonal demand.
+- Sales peaks occur during **March**, **May**, **September**, and **November**, likely tied to **promotional events** or **seasonal demand**.  
 
+**Recommendation:**  
+Align marketing campaigns with these seasonal peaks to maximize promotional ROI.
+
+---
+
+## Profitability & Correlation Analysis
+
+### **Profitability by Ship Mode and Region**
 ![profitability correlation with ship mode and region](https://github.com/julialorrayne/Projects-images/blob/main/superstore/profitability%20correlation%20with%20ship%20mode%20and%20region.png?raw=true)
-Profitability does not directly correlate with sales volume alone.
-There are some cases where high sales correspond to negative profit, which may indicate inneficiencies.
+- Profit is **not always correlated with sales volume**.  
+- Some regions show high sales but **negative profits**, suggesting inefficiencies (e.g., excessive discounts or high shipping costs).
 
-
-
+### **Correlation Matrix (Overall)**
 ![correlation matrix](https://github.com/julialorrayne/Projects-images/blob/main/superstore/correlation%20matrix.png?raw=true)
-There is a small correlation between Profit and Sales.
-There is a negative correlation between Discount and the variables Profit and Sales. The Discount startegies might need to be reviewed and andjusted.
+| Variable Relationship | Observation |
+|-----------------------|--------------|
+| **Sales & Profit** | Weak positive correlation |
+| **Discount & Profit** | Strong negative correlation |
+| **Discount & Sales** | Slight negative correlation |
+| **Quantity & Profit** | Minimal correlation |
 
+**Recommendation:**  
+Reassess **discount strategies**. High discounts significantly reduce profit margins without consistently increasing sales.
+
+---
+
+### **Regional Correlation Insights**
 ![correlation south](https://github.com/julialorrayne/Projects-images/blob/main/superstore/correlation%20south.png?raw=true)
 ![correlation west](https://github.com/julialorrayne/Projects-images/blob/main/superstore/correlation%20west.png?raw=true)
 ![correlation central](https://github.com/julialorrayne/Projects-images/blob/main/superstore/correlation%20central.png?raw=true)
 ![correlation east](https://github.com/julialorrayne/Projects-images/blob/main/superstore/correlation%20east.png?raw=true)
+- **South Region:** Lowest correlation between Sales and Profit → inefficient pricing or discounting.  
+- **East Region:** Highest correlation → strong operational efficiency and pricing strategy.  
 
-Compared to the other regions, the South region's profit and sales correlation is significantly low. The company might need to review why the volume in sales isn't generating as high profit as the other regions.
+**Recommendation:**  
+Benchmark the East region’s practices across other regions to improve consistency in profitability.
 
+---
+## Business Recommendations
+✅ Prioritize **Technology** category (especially *Copiers* and *Binders*).  
+✅ Maintain **Standard Class** for order volume; scale **Same Day** for premium customers.  
+✅ Reevaluate **discount policies** to improve profit margins.  
+✅ Plan **seasonal marketing** around sales peaks (March, May, September, November).  
+✅ Investigate **South region** for pricing or operational inefficiencies.  
