@@ -101,8 +101,8 @@ Benchmark the East region’s practices across other regions to improve consiste
 
 ---
 ## Business Recommendations
-✅ Prioritize **Technology** category (especially *Copiers* and *Binders*).  
-✅ Maintain **Standard Class** for order volume; scale **Same Day** for premium customers.  
-✅ Reevaluate **discount policies** to improve profit margins.  
-✅ Plan **seasonal marketing** around sales peaks (March, May, September, November).  
-✅ Investigate **South region** for pricing or operational inefficiencies.  
+Prioritize **Technology** category (especially *Copiers* and *Binders*).  
+Maintain **Standard Class** for order volume; scale **Same Day** for premium customers.  
+Reevaluate **discount policies** to improve profit margins.  
+Plan **seasonal marketing** around sales peaks (March, May, September, November).  
+Investigate **South region** for pricing or operational inefficiencies.  
