@@ -3,6 +3,8 @@
 ## Background and Overview
 This project is based on a mock superstore dataset. The company has significant amounts of data on its products orders, and customers. This project analyses and synthesizes this data to uncover insights that will enhance the superstore profitability.  
  
+**Tools Used:** Python (Pandas, Plotly, Scikit-learn, Matplotlib, NumPy)
+**Techniques:** Exploratory Data Analysis (EDA), Machine Learning Modeling, Correlation Analysis, Data Visualization, Business Insights  
 
 ## Data Structure Overview
 The dataset contains 9,995 records of Superstore sales data. It includes information about orders, shipping details, customers, and products, along with key performance metrics such as sales, quantity, discount, and profit.
@@ -12,9 +14,6 @@ The original dataset can be found [here](https://usfedu-my.sharepoint.com/:x:/g/
 ## Executive Sumamary
 ## Insights Deep Dive
 ## Recommendations
-
-**Tools Used:** Python, Pandas, Plotly, Matplotlib  
-**Techniques:** Exploratory Data Analysis (EDA), Correlation Analysis, Data Visualization, Business Insights  
 
 ---
 
