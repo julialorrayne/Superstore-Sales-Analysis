@@ -33,6 +33,7 @@ Consumer customers represent 4 of 5 most profitable transactions, accounting for
 The high profitability of Consumer transactions highlights sustained margins even in smaller-scale purchases. 
  
 **Business Interpretation**
+
 •	Product Focus: The Canon imageCLASS 2200 Advanced Copier drives most of the profit within this group.
 Maintaining strong supplier relationships, optimizing inventory, and offering bundled service plans for this line could further improve margins.
 
