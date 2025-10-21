@@ -1,5 +1,16 @@
 # Superstore Sales Analysis  
 
+## Background and Overview
+This project is based on a mock superstore dataset. The company has significant amounts of data on its products orders, and customers. This project analyses and synthesizes this data to uncover insights that will enhance the superstore profitability.  
+
+The original dataset can be found [here](<img width="238" height="62" alt="image" src="https://github.com/user-attachments/assets/98109a08-7f40-4747-beeb-244f5ead13f9" />)
+ 
+
+## Data Structure Overview
+## Executive Sumamary
+## Insights Deep Dive
+## Recommendations
+
 **Tools Used:** Python, Pandas, Plotly, Matplotlib  
 **Techniques:** Exploratory Data Analysis (EDA), Correlation Analysis, Data Visualization, Business Insights  
 
