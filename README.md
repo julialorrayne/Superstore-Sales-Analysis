@@ -1,7 +1,8 @@
 # Superstore Sales Analysis  
 
 ## Background and Overview
-This project is based on a mock superstore dataset. The company has significant amounts of data on its products orders, and customers. This project analyses and synthesizes this data to uncover insights that will enhance the superstore profitability.  
+This project is based on a mock superstore dataset. The company has significant amounts of data on its products orders, and customers. This project analyses and synthesizes this data to uncover insights that will enhance the superstore profitability. 
+The goal of this project is to identify profit drivers, evaluate shipping efficiency, and provide data-driven recommendations to optimize business decisions.  
  
 **Tools Used:** Python (Pandas, Plotly, Scikit-learn, Matplotlib, NumPy)
 **Techniques:** Exploratory Data Analysis (EDA), Machine Learning Modeling, Correlation Analysis, Data Visualization, Business Insights  
@@ -14,13 +15,6 @@ The original dataset can be found [here](https://usfedu-my.sharepoint.com/:x:/g/
 ## Executive Sumamary
 ## Insights Deep Dive
 ## Recommendations
-
----
-
-## Project Overview  
-This project analyzes the **Superstore** dataset to uncover key insights on **sales performance**, **profitability**, and **shipping trends** across regions.  
-
-The goal is to identify profit drivers, evaluate shipping efficiency, and provide data-driven recommendations to optimize business decisions.  
 
 ---
 
