@@ -22,9 +22,16 @@ The original dataset can be found [here](https://usfedu-my.sharepoint.com/:x:/g/
 
 ### **1. Top 5 Most Profitable Transactions**
 ![Most Profitable products table](https://github.com/julialorrayne/Projects-images/blob/main/superstore/5%20most%20profitable.png?raw=true)
-- The **Technology** category dominates the top profitable sales — especially *Copiers* and *Binders*.  
-- The **Central** and **West** regions lead in profitability.  
-- Most of these high-profit transactions come from **Consumer** segment customers.  
+
+•	**Technology** → Copiers accounts for 3 out of the Top-5 most profitable transactions, generating $20,159.94 in total profit and $41,999.88 in sales.
+These transactions all involve the Canon imageCLASS 2200 Advanced Copier, confirming it as the single most profitable product line.
+•	**Regional Performance**:
+The Central region contributes $17,976.83 (≈ 60.5%) of total Top-5 profit, followed by the West (22.6%) and East (16.9%) regions.
+This concentration indicates strong sales potential and operational efficiency in the Central region.
+•	**Customer Segmentation**:
+Consumer customers represent 4 of 5 most profitable transactions, accounting for $21,336.82 in profit, while Corporate customers contribute $8,399.98.
+The high profitability of Consumer transactions highlights sustained margins even in smaller-scale purchases. 
+
 
 **Recommendation:**  
 Focus on the **Technology category** and **Consumer segment** in profitable regions to sustain high margins.
