@@ -58,11 +58,13 @@ Same Day shipping is used least frequently, implying that expedited delivery is 
 
 #### **Sales Amount by Ship Mode**
 ![ship mode sales](https://github.com/julialorrayne/Projects-images/blob/main/superstore/ship%20mode%20sales.png?raw=true)
-- Despite fewer transactions, **Same Day** shipping generates the **highest total sales**, indicating higher-value orders.
 
-**Recommendation:**  
-- Continue prioritizing *Standard Class* for volume and customer satisfaction.  
-- Expand *Same Day* delivery for high-value customers to increase profitability.
+Despite having fewer transactions, Same Day shipping generates the highest total sales ($1,357,934), indicating that customers who choose this mode tend to place higher-value orders.
+
+First Class follows with a strong sales contribution($459,193), while Standard Class dominates in volume but not in total revenue.
+
+Second Class has both the lowest sales volume and value, suggesting it is the least preferred option across customers.
+
 
 ---
 
