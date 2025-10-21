@@ -70,10 +70,6 @@ Second Class has both the lowest sales volume and value, suggesting it is the le
 
 ### **3. Regional Analysis**
 
-#### **Order Frequency by Ship Mode and Region**
-![order frequency by ship mode and region](https://github.com/julialorrayne/Projects-images/blob/main/superstore/order%20frequency%20by%20ship%20mode%20and%20region.png?raw=true)
-- Across all regions, **Standard Class** dominates, followed by **Second Class** and **First Class**.
-
 #### **Sales by Region and Ship Mode**
 ![sales by ship mode and region](https://github.com/julialorrayne/Projects-images/blob/main/superstore/sales%20by%20ship%20mode%20and%20region.png?raw=true)
 - **East** and **West** regions generate the highest total sales.  
