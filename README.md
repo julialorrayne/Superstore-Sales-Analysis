@@ -3,7 +3,7 @@
 ## Background and Overview
 This project is based on a mock superstore dataset. The company has significant amounts of data on its products orders, and customers. This project analyses and synthesizes this data to uncover insights that will enhance the superstore profitability.  
 
-The original dataset can be found [here](<img width="238" height="62" alt="image" src="https://github.com/user-attachments/assets/98109a08-7f40-4747-beeb-244f5ead13f9" />)
+The original dataset can be found [here](https://usfedu-my.sharepoint.com/:x:/g/personal/lorrayne_usf_edu/EcGQGlYn56hIoRIFKAQOP-0B_8SEwR0CelpfssVhzTI8ug?e=fKVIJd)
  
 
 ## Data Structure Overview
