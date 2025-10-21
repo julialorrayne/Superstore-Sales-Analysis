@@ -47,7 +47,7 @@ Maintaining strong supplier relationships, optimizing inventory, and offering bu
 
 #### **Ship Mode Frequency**
 ![ship mode frequency](https://github.com/julialorrayne/Projects-images/blob/main/superstore/ship%20mode.png?raw=true)
-- **Standard Class** is the most used shipping mode, accounting for most orders.  
+- **Standard Class** is the most used shipping mode, accounting for 5,967 orders.   
 - **Second Class** and **First Class** follow, while **Same Day** is used the least.
 
 #### **Sales Amount by Ship Mode**
