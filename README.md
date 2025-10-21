@@ -31,10 +31,12 @@ This concentration indicates strong sales potential and operational efficiency i
 •	**Customer Segmentation**:
 Consumer customers represent 4 of 5 most profitable transactions, accounting for $21,336.82 in profit, while Corporate customers contribute $8,399.98.
 The high profitability of Consumer transactions highlights sustained margins even in smaller-scale purchases. 
-
-
-**Recommendation:**  
-Focus on the **Technology category** and **Consumer segment** in profitable regions to sustain high margins.
+ 
+**Business Interpretation**
+•	Product Focus: The Canon imageCLASS 2200 Advanced Copier drives most of the profit within this group.
+Maintaining strong supplier relationships, optimizing inventory, and offering bundled service plans for this line could further improve margins.
+•	Regional Strategy: The Central region’s dominance indicates an opportunity to replicate its success model—review shipping efficiency, regional pricing, and sales incentives.
+•	Customer Insights: With Consumer transactions producing the majority of profits, targeted marketing, loyalty programs, and premium upsell campaigns could strengthen retention and revenue per order.
 
 ---
 
