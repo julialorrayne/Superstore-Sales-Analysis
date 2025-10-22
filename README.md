@@ -130,7 +130,7 @@ In contrast, the South region shows more scattered or negative profit values, es
 
 First Class and Second Class order
 
-### **Correlation Matrix (Overall)**
+### **Correlation Matrix**
 ![correlation matrix](https://github.com/julialorrayne/Projects-images/blob/main/superstore/correlation%20matrix.png?raw=true)
 | Variable Relationship | Observation |
 |-----------------------|--------------|
