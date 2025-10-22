@@ -149,7 +149,7 @@ East Region: Demonstrates the highest correlation between Sales and Profit (r â‰
 
 
 **Summary Insight:**  
-> Profitability varies by region. While the **West and Central regions** exhibit strong alignment between sales and profit, the **South region** shows almost no correlation, signaling inefficiencies. The **East region** maintains consistent profitability, making it a benchmark for best practices in pricing and operations.
+Profitability varies by region. While the **West and Central regions** exhibit strong alignment between sales and profit, the **South region** shows almost no correlation, signaling inefficiencies. The **East region** maintains consistent profitability, making it a benchmark for best practices in pricing and operations.
 
 
 ## Recommendations
