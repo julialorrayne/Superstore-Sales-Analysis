@@ -133,6 +133,20 @@ Quantity and Profit exhibit minimal correlation (r ≈ 0.07), meaning that selli
 ![correlation west](https://github.com/julialorrayne/Projects-images/blob/main/superstore/correlation%20west.png?raw=true)
 ![correlation central](https://github.com/julialorrayne/Projects-images/blob/main/superstore/correlation%20central.png?raw=true)
 ![correlation east](https://github.com/julialorrayne/Projects-images/blob/main/superstore/correlation%20east.png?raw=true)
+
+
+---
+
+### 📈 Sales vs. Profit Correlation by Region
+
+| **Region** | **Correlation (r)** | **Interpretation** |
+|-------------|--------------------|--------------------|
+| **South**   | 0.01               | Very weak correlation |
+| **Central** | 0.64               | Strong positive correlation |
+| **West**    | 0.65               | Strong positive correlation |
+| **East**    | 0.52               | Moderate positive correlation |
+
+
 South Region: Shows the lowest correlation between Sales and Profit (r ≈ 0.01), indicating potential inefficiencies in pricing or discount management. Despite steady sales, profit remains inconsistent, suggesting that higher discounts or operational costs are eroding margins.
 
 Central Region: Exhibits a moderate correlation (r ≈ 0.64), reflecting relatively stable pricing and profit behavior but still with room for optimization in discount policies.
@@ -141,10 +155,10 @@ West Region: Also presents a strong positive correlation (r ≈ 0.65), showing e
 
 East Region: Demonstrates the highest correlation between Sales and Profit (r ≈ 0.52), suggesting strong operational efficiency and disciplined pricing strategies. This region appears to manage discounting and cost structures effectively, maintaining profitability consistency.
 
-**Recommendation:**  
-Benchmark the East region’s practices across other regions to improve consistency in profitability.
 
----
+**Summary Insight:**  
+> Profitability varies by region. While the **West and Central regions** exhibit strong alignment between sales and profit, the **South region** shows almost no correlation, signaling inefficiencies. The **East region** maintains consistent profitability, making it a benchmark for best practices in pricing and operations.
+
 
 ## Recommendations
 
