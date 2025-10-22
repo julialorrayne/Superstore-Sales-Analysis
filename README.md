@@ -13,8 +13,6 @@ The dataset contains 9,995 records of Superstore sales data. It includes informa
 The original dataset can be found [here](https://usfedu-my.sharepoint.com/:x:/g/personal/lorrayne_usf_edu/EcGQGlYn56hIoRIFKAQOP-0B_8SEwR0CelpfssVhzTI8ug?e=fKVIJd)
 
 ## Executive Sumamary
-## Insights Deep Dive
-## Recommendations
 
 ---
 
@@ -135,13 +133,21 @@ Quantity and Profit exhibit minimal correlation (r ≈ 0.07), meaning that selli
 ![correlation west](https://github.com/julialorrayne/Projects-images/blob/main/superstore/correlation%20west.png?raw=true)
 ![correlation central](https://github.com/julialorrayne/Projects-images/blob/main/superstore/correlation%20central.png?raw=true)
 ![correlation east](https://github.com/julialorrayne/Projects-images/blob/main/superstore/correlation%20east.png?raw=true)
-- **South Region:** Lowest correlation between Sales and Profit → inefficient pricing or discounting.  
-- **East Region:** Highest correlation → strong operational efficiency and pricing strategy.  
+South Region: Shows the lowest correlation between Sales and Profit (r ≈ 0.01), indicating potential inefficiencies in pricing or discount management. Despite steady sales, profit remains inconsistent, suggesting that higher discounts or operational costs are eroding margins.
+
+Central Region: Exhibits a moderate correlation (r ≈ 0.64), reflecting relatively stable pricing and profit behavior but still with room for optimization in discount policies.
+
+West Region: Also presents a strong positive correlation (r ≈ 0.65), showing effective alignment between revenue growth and profit generation — though minor discount-related inefficiencies may persist.
+
+East Region: Demonstrates the highest correlation between Sales and Profit (r ≈ 0.52), suggesting strong operational efficiency and disciplined pricing strategies. This region appears to manage discounting and cost structures effectively, maintaining profitability consistency.
 
 **Recommendation:**  
 Benchmark the East region’s practices across other regions to improve consistency in profitability.
 
 ---
+
+## Recommendations
+
 ## Business Recommendations
 Prioritize **Technology** category (especially *Copiers* and *Binders*).  
 Maintain **Standard Class** for order volume; scale **Same Day** for premium customers.  
