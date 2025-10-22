@@ -88,11 +88,14 @@ Recommendation
 
 ### **4. Monthly Sales Trend**
 ![monthly sales trend by ship mode](https://github.com/julialorrayne/Projects-images/blob/main/superstore/monthly%20sales%20trend%20by%20ship%20mode.png?raw=true)
-- Sales peaks occur during **March**, **May**, **September**, and **November**, likely tied to **promotional events** or **seasonal demand**.  
+- Sales peaks are observed during March, May, September, and November, suggesting increased purchasing activity likely driven by promotional events, holidays, or seasonal demand cycles.
+
+Standard Class consistently leads in total sales volume throughout the year, showing stable customer preference for economical shipping.
 
 **Recommendation:**  
-Align marketing campaigns with these seasonal peaks to maximize promotional ROI.
+Align marketing and promotional campaigns with high-sales months (March, May, September, November) to maximize seasonal revenue opportunities and promotional ROI.
 
+Maintain adequate inventory and staffing levels in advance of these peaks to ensure smooth order fulfillment.
 ---
 
 ## Profitability & Correlation Analysis
