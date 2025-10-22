@@ -31,9 +31,7 @@ Strategic recommendations include:
 
 •	Seasonality and Demand Planning: Align marketing campaigns, promotions, and staffing with high-sales months to capitalize on peak demand and ensure smooth fulfillment.
 
-•	Pricing and Discount Strategy: Implement a data-driven discount policy. Limit excessive markdowns, as discounts show a strong negative impact on profit (r = -0.22) with minimal sales benefit.
-
-•	Apply smarter, data-based discounts as current discounts reduce profit without significantly increasing sales.
+•	Pricing and Discount Strategy: Implement a data-driven discount policy.	Apply smarter, data-based discounts as current discounts reduce profit without significantly increasing sales.
 
 ---
 
