@@ -85,7 +85,7 @@ Second Class has both the lowest sales volume and value, suggesting it is the le
 
 ---
 
-### ** Regional Analysis**
+### Regional Analysis
 
 #### **Sales by Region and Ship Mode**
 ![sales by ship mode and region](https://github.com/julialorrayne/Projects-images/blob/main/superstore/sales%20by%20ship%20mode%20and%20region.png?raw=true)
