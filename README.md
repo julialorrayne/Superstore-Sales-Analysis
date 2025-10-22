@@ -102,8 +102,13 @@ Maintain adequate inventory and staffing levels in advance of these peaks to ens
 
 ### **Profitability by Ship Mode and Region**
 ![profitability correlation with ship mode and region](https://github.com/julialorrayne/Projects-images/blob/main/superstore/profitability%20correlation%20with%20ship%20mode%20and%20region.png?raw=true)
-- Profit is **not always correlated with sales volume**.  
-- Some regions show high sales but **negative profits**, suggesting inefficiencies (e.g., excessive discounts or high shipping costs).
+Profit is not always proportional to sales volume. Some transactions with high sales values yield relatively low or even negative profits, indicating potential pricing or cost inefficiencies.
+
+The Central and East regions display stronger positive correlations between sales and profit, suggesting healthier margins and operational efficiency.
+
+In contrast, the South region shows more scattered or negative profit values, especially for Standard Class and Same Day shipping, implying higher discounting or elevated shipping costs that reduce overall profitability.
+
+First Class and Second Class order
 
 ### **Correlation Matrix (Overall)**
 ![correlation matrix](https://github.com/julialorrayne/Projects-images/blob/main/superstore/correlation%20matrix.png?raw=true)
