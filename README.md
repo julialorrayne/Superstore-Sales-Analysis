@@ -5,6 +5,7 @@ This project is based on a mock superstore dataset. The company has significant 
 The goal of this project is to identify profit drivers, evaluate shipping efficiency, and provide data-driven recommendations to optimize business decisions.  
  
 **Tools Used:** Python (Pandas, Plotly, Scikit-learn, Matplotlib, NumPy)
+
 **Techniques:** Exploratory Data Analysis (EDA), Machine Learning Modeling, Correlation Analysis, Data Visualization, Business Insights  
 
 ## Data Structure Overview
