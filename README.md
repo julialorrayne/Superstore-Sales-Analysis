@@ -74,11 +74,15 @@ Second Class has both the lowest sales volume and value, suggesting it is the le
 ![sales by ship mode and region](https://github.com/julialorrayne/Projects-images/blob/main/superstore/sales%20by%20ship%20mode%20and%20region.png?raw=true)
 
 • The East and West regions generate the highest total sales — $725,456 in the West and $678,499 in the East — indicating stronger market activity and customer demand.
+
 •	The Central region shows moderate performance ($501,239), while the South region reports the lowest sales volume ($391,724).
+
 •	Across all regions, Standard Class remains the dominant shipping mode, followed by Second Class and First Class.
 
 Recommendation
+
 •	Investigate the South region’s weaker sales performance by analyzing customer demographics, marketing reach, and product availability to identify potential demand gaps.
+
 •	Replicate successful strategies from the East and West regions — such as regional promotions, improved delivery speed, or inventory optimization — to boost overall sales performance.
 
 
