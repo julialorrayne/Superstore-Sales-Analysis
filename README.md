@@ -10,7 +10,10 @@ The goal of this project is to identify profit drivers, evaluate shipping effici
 ## Data Structure Overview
 The dataset contains 9,995 records of Superstore sales data. It includes information about orders, shipping details, customers, and products, along with key performance metrics such as sales, quantity, discount, and profit.
 
+Data cleaning techniques included handling missing values and outliers, validating data types, removing duplicates, and eliminating irrelevant variables to ensure data quality and consistency.
+
 The original dataset can be found [here](https://usfedu-my.sharepoint.com/:x:/g/personal/lorrayne_usf_edu/EcGQGlYn56hIoRIFKAQOP-0B_8SEwR0CelpfssVhzTI8ug?e=fKVIJd)
+
 
 ## Executive Sumamary
 
