@@ -37,7 +37,7 @@ Strategic recommendations include:
 
 ## Key Insights  
 
-### ** Top 5 Most Profitable Transactions**
+### Top 5 Most Profitable Transactions
 ![Most Profitable products table](https://github.com/julialorrayne/Projects-images/blob/main/superstore/5%20most%20profitable.png?raw=true)
 
 •	**Technology** → Copiers accounts for 3 out of the Top-5 most profitable transactions, generating $20,159.94 in total profit and $41,999.88 in sales.
@@ -60,9 +60,9 @@ Maintaining strong supplier relationships, optimizing inventory, and offering bu
 
 ---
 
-### ** Shipping Mode Analysis**
+### Shipping Mode Analysis
 
-#### **Ship Mode Frequency**
+#### Ship Mode Frequency
 ![ship mode frequency](https://github.com/julialorrayne/Projects-images/blob/main/superstore/ship%20mode.png?raw=true)
 
 Standard Class is the most frequently used shipping mode, accounting for 5,967 orders — representing the majority of all shipments.
@@ -73,7 +73,7 @@ Second Class and First Class follow with moderate utilization, suggesting these 
 Same Day shipping is used least frequently, implying that expedited delivery is rarely required or that higher costs discourage its use.
 
 
-#### **Sales Amount by Ship Mode**
+#### Sales Amount by Ship Mode
 ![ship mode sales](https://github.com/julialorrayne/Projects-images/blob/main/superstore/ship%20mode%20sales.png?raw=true)
 
 Despite having fewer transactions, Same Day shipping generates the highest total sales ($1,357,934), indicating that customers who choose this mode tend to place higher-value orders.
@@ -104,7 +104,7 @@ Recommendation
 
 ---
 
-### ** Monthly Sales Trend**
+### Monthly Sales Trend
 ![monthly sales trend by ship mode](https://github.com/julialorrayne/Projects-images/blob/main/superstore/monthly%20sales%20trend%20by%20ship%20mode.png?raw=true)
 - Sales peaks are observed during March, May, September, and November, suggesting increased purchasing activity likely driven by promotional events, holidays, or seasonal demand cycles.
 
@@ -129,7 +129,7 @@ In contrast, the South region shows more scattered or negative profit values, es
 
 First Class and Second Class order
 
-### **Correlation Matrix**
+### Correlation Matrix
 ![correlation matrix](https://github.com/julialorrayne/Projects-images/blob/main/superstore/correlation%20matrix.png?raw=true)
 | Variable Relationship | Observation |
 |-----------------------|--------------|
