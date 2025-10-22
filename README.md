@@ -129,7 +129,7 @@ Quantity and Profit exhibit minimal correlation (r ≈ 0.07), meaning that selli
 
 ---
 
-### 📈 Sales vs. Profit Correlation by Region
+### Sales vs. Profit Correlation by Region
 
 | **Region** | **Correlation (r)** | **Interpretation** |
 |-------------|--------------------|--------------------|
@@ -151,12 +151,33 @@ East Region: Demonstrates the highest correlation between Sales and Profit (r �
 **Summary Insight:**  
 Profitability varies by region. While the **West and Central regions** exhibit strong alignment between sales and profit, the **South region** shows almost no correlation, signaling inefficiencies. The **East region** maintains consistent profitability, making it a benchmark for best practices in pricing and operations.
 
-
-## Recommendations
+---
 
 ## Business Recommendations
-Prioritize **Technology** category (especially *Copiers* and *Binders*).  
-Maintain **Standard Class** for order volume; scale **Same Day** for premium customers.  
-Reevaluate **discount policies** to improve profit margins.  
-Plan **seasonal marketing** around sales peaks (March, May, September, November).  
-Investigate **South region** for pricing or operational inefficiencies.  
+**1. Product Strategy**
+•	Focus on high-margin products — particularly the Canon imageCLASS 2200, which generated the majority of profits among top transactions.
+Promote them more aggressively and bundle complementary items to increase the order value. 
+
+
+
+**2. Shipping Optimization**
+•	As the most frequently used and cost-effective shipping mode, continue to preserve affordability of Standard Class to sustain order volume and customer satisfaction.
+•	Same Day shipping generates the highest sales value per transaction but lower frequency — evaluate targeted marketing or loyalty incentives for high-value customers to increase adoption without increasing costs.
+
+
+
+**3. Regional Performance**
+•	Both East and West regions show strong sales(generating $678K and $725K respectively) and positive profit correlation (r ≈ 0.52–0.65), indicating efficient operations and effective pricing.
+-> Analyze their sales practices, promotional campaigns, and cost structures to replicate these models across other regions.
+•	South region underperforms in both sales and profitability. Conduct a deeper diagnostic into pricing, discounting, and delivery costs to identify inefficiencies.
+
+
+
+**4. Seasonality and Demand Planning**
+•	Sales peaks occur in March, May, September, and November. Align marketing campaigns and promotional discounts with these high-sales periods to maximize ROI.
+•	Increase inventory and staffing capacity ahead of peak months to avoid stockouts and maintain customer satisfaction.
+
+
+
+**5. Pricing and Discount Strategy**
+•	Correlation analysis shows that discounts have a strong negative impact on profit (r = -0.22), while their effect on sales is minimal. Implement discount optimization — offer discounts selectively where they demonstrably improve volume or customer acquisition.
