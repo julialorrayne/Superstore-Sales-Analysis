@@ -119,6 +119,14 @@ First Class and Second Class order
 | **Discount & Sales** | Slight negative correlation |
 | **Quantity & Profit** | Minimal correlation |
 
+Sales and Profit show a weak positive correlation (r = 0.47), suggesting that while higher sales often lead to higher profits, the relationship is not strongly linear — likely due to varying costs, discounts, and product margins.
+
+Discount and Profit display a strong negative correlation (r = -0.22), confirming that larger discounts tend to reduce profit margins without a proportionate increase in sales.
+
+Discount and Sales have a slight negative correlation (r = -0.03), indicating that discounts do not consistently drive higher sales volumes.
+
+Quantity and Profit exhibit minimal correlation (r ≈ 0.07), meaning that selling more units doesn’t necessarily translate into higher profits — possibly due to product mix or variable pricing.
+
 **Recommendation:**  
 Reassess **discount strategies**. High discounts significantly reduce profit margins without consistently increasing sales.
 
