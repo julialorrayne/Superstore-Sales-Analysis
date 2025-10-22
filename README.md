@@ -126,14 +126,6 @@ Discount and Sales have a slight negative correlation (r = -0.03), indicating th
 Quantity and Profit exhibit minimal correlation (r ≈ 0.07), meaning that selling more units doesn’t necessarily translate into higher profits — possibly due to product mix or variable pricing.
 
 
----
-
-### **Regional Correlation Insights**
-![correlation south](https://github.com/julialorrayne/Projects-images/blob/main/superstore/correlation%20south.png?raw=true)
-![correlation west](https://github.com/julialorrayne/Projects-images/blob/main/superstore/correlation%20west.png?raw=true)
-![correlation central](https://github.com/julialorrayne/Projects-images/blob/main/superstore/correlation%20central.png?raw=true)
-![correlation east](https://github.com/julialorrayne/Projects-images/blob/main/superstore/correlation%20east.png?raw=true)
-
 
 ---
 
