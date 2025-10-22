@@ -35,7 +35,7 @@ Strategic recommendations include:
 
 ## Key Insights  
 
-### **1. Top 5 Most Profitable Transactions**
+### ** Top 5 Most Profitable Transactions**
 ![Most Profitable products table](https://github.com/julialorrayne/Projects-images/blob/main/superstore/5%20most%20profitable.png?raw=true)
 
 •	**Technology** → Copiers accounts for 3 out of the Top-5 most profitable transactions, generating $20,159.94 in total profit and $41,999.88 in sales.
@@ -58,7 +58,7 @@ Maintaining strong supplier relationships, optimizing inventory, and offering bu
 
 ---
 
-### **2. Shipping Mode Analysis**
+### ** Shipping Mode Analysis**
 
 #### **Ship Mode Frequency**
 ![ship mode frequency](https://github.com/julialorrayne/Projects-images/blob/main/superstore/ship%20mode.png?raw=true)
@@ -83,7 +83,7 @@ Second Class has both the lowest sales volume and value, suggesting it is the le
 
 ---
 
-### **3. Regional Analysis**
+### ** Regional Analysis**
 
 #### **Sales by Region and Ship Mode**
 ![sales by ship mode and region](https://github.com/julialorrayne/Projects-images/blob/main/superstore/sales%20by%20ship%20mode%20and%20region.png?raw=true)
@@ -100,8 +100,9 @@ Recommendation
 
 •	Replicate successful strategies from the East and West regions — such as regional promotions, improved delivery speed, or inventory optimization — to boost overall sales performance.
 
+---
 
-### **4. Monthly Sales Trend**
+### ** Monthly Sales Trend**
 ![monthly sales trend by ship mode](https://github.com/julialorrayne/Projects-images/blob/main/superstore/monthly%20sales%20trend%20by%20ship%20mode.png?raw=true)
 - Sales peaks are observed during March, May, September, and November, suggesting increased purchasing activity likely driven by promotional events, holidays, or seasonal demand cycles.
 
@@ -111,6 +112,7 @@ Standard Class consistently leads in total sales volume throughout the year, sho
 Align marketing and promotional campaigns with high-sales months (March, May, September, November) to maximize seasonal revenue opportunities and promotional ROI.
 
 Maintain adequate inventory and staffing levels in advance of these peaks to ensure smooth order fulfillment.
+
 ---
 
 ## Profitability & Correlation Analysis
