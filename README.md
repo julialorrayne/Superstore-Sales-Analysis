@@ -18,14 +18,14 @@ The original dataset can be found [here](https://usfedu-my.sharepoint.com/:x:/g/
 
 ## Executive Sumamary
 
-Key findings show that high-margin Technology products, particularly the Canon imageCLASS 2200, generate the majority of profits; Standard Class remains the most cost-effective and widely used shipping mode; and Same Day shipping, while less frequent, delivers the highest-value orders. Regional analysis highlights strong sales performance in the East and West, while the South region underperforms due to likely pricing and cost inefficiencies. Seasonal patterns further indicate demand peaks in March, May, September, and November, offering actionable windows for marketing and operational planning.
+Key findings show that high-margin Technology products, particularly the Canon imageCLASS 2200, generate the majority of profits; Standard Class remains the most cost-effective and widely used shipping mode. Regional analysis highlights strong sales performance in the East and West, while the South region underperforms due to likely pricing and cost inefficiencies. Seasonal patterns further indicate demand peaks in March, May, September, and November, offering actionable windows for marketing and operational planning.
 
 
 Strategic recommendations include:
 
 •	Product Strategy: Prioritize and promote high-margin products such as the Canon imageCLASS 2200 and bundle complementary items.
 
-•	Shipping Optimization: Preserve affordability and efficiency in Standard Class deliveries while expanding Same Day options for premium customers through targeted loyalty programs or marketing campaigns.
+•	Shipping Optimization: Preserve affordability and efficiency in Standard Class deliveries.
 
 •	Regional Performance: Replicate the successful sales and pricing models of the East and West regions. Conduct a deeper review of discounting and delivery operations in the South to address low profitability.
 
