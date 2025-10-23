@@ -43,7 +43,7 @@ Strategic recommendations include:
 ### Top 5 Most Profitable Transactions
 ![Most Profitable products table](https://github.com/julialorrayne/Projects-images/blob/main/superstore/5%20most%20profitable.png?raw=true)
 
-•	**Technology** → Copiers accounts for 3 out of the Top-5 most profitable transactions, generating $20,159.94 in total profit and $41,999.88 in sales.
+**Technology** → Copiers accounts for 3 out of the Top-5 most profitable transactions, generating $20,159.94 in total profit and $41,999.88 in sales.
 These transactions all involve the Canon imageCLASS 2200 Advanced Copier, confirming it as the single most profitable product line.
 
 ---
@@ -78,18 +78,19 @@ Same Day has both the lowest sales volume and value, suggesting it is the least 
 #### **Sales by Region and Ship Mode**
 ![sales by ship mode and region](https://github.com/julialorrayne/Projects-images/blob/main/superstore/sales%20by%20ship%20mode%20and%20region.png?raw=true)
 
-• The East and West regions generate the highest total sales — $725,456 in the West and $678,499 in the East — indicating stronger market activity and customer demand.
+The East and West regions generate the highest total sales — $725,456 in the West and $678,499 in the East — indicating stronger market activity and customer demand.
 
-•	The Central region shows moderate performance ($501,239), while the South region reports the lowest sales volume ($391,724).
+The Central region shows moderate performance ($501,239), while the South region reports the lowest sales volume ($391,724).
 
-•	Across all regions, Standard Class remains the dominant shipping mode, followed by Second Class and First Class.
+Across all regions, Standard Class remains the dominant shipping mode, followed by Second Class and First Class.
 
 
 ---
 
 ### Monthly Sales Trend
 ![monthly sales trend by ship mode](https://github.com/julialorrayne/Projects-images/blob/main/superstore/monthly%20sales%20trend%20by%20ship%20mode.png?raw=true)
-- Sales peaks are observed during March, May, September, and November, suggesting increased purchasing activity likely driven by promotional events, holidays, or seasonal demand cycles.
+
+Sales peaks are observed during March, May, September, and November, suggesting increased purchasing activity likely driven by promotional events, holidays, or seasonal demand cycles.
 
 Standard Class consistently leads in total sales volume throughout the year, showing stable customer preference for economical shipping.
 
@@ -108,6 +109,7 @@ In contrast, the South region shows more scattered or negative profit values, es
 
 ### Correlation Matrix
 ![correlation matrix](https://github.com/julialorrayne/Projects-images/blob/main/superstore/correlation%20matrix.png?raw=true)
+
 | Variable Relationship | Observation |
 |-----------------------|--------------|
 | **Sales & Profit** | Weak positive correlation |
