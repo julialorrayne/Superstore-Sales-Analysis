@@ -123,7 +123,6 @@ The Central and East regions display stronger positive correlations between sale
 
 In contrast, the South region shows more scattered or negative profit values, especially for Standard Class and Same Day shipping, implying higher discounting or elevated shipping costs that reduce overall profitability.
 
-First Class and Second Class order
 
 ### Correlation Matrix
 ![correlation matrix](https://github.com/julialorrayne/Projects-images/blob/main/superstore/correlation%20matrix.png?raw=true)
