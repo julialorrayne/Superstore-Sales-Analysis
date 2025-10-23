@@ -178,8 +178,6 @@ Promote them more aggressively and bundle complementary items to increase the or
 
 •	As the most frequently used and cost-effective shipping mode, continue to preserve affordability of Standard Class to sustain order volume and customer satisfaction.
 
-•	Same Day shipping generates the highest sales value per transaction but lower frequency — evaluate targeted marketing or loyalty incentives for high-value customers to increase adoption without increasing costs.
-
 
 
 **3. Regional Performance**
