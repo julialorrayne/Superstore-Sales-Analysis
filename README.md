@@ -43,7 +43,7 @@ Strategic recommendations include:
 ### Top 5 Most Profitable Transactions
 ![Most Profitable products table](https://github.com/julialorrayne/Projects-images/blob/main/superstore/5%20most%20profitable.png?raw=true)
 
-**Technology** → Copiers accounts for 3 out of the Top-5 most profitable transactions, generating $20,159.94 in total profit and $41,999.88 in sales.
+Technology → Copiers accounts for 3 out of the Top-5 most profitable transactions, generating $20,159.94 in total profit and $41,999.88 in sales.
 These transactions all involve the Canon imageCLASS 2200 Advanced Copier, confirming it as the single most profitable product line.
 
 ---
