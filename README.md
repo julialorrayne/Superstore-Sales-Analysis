@@ -43,17 +43,6 @@ Strategic recommendations include:
 •	**Technology** → Copiers accounts for 3 out of the Top-5 most profitable transactions, generating $20,159.94 in total profit and $41,999.88 in sales.
 These transactions all involve the Canon imageCLASS 2200 Advanced Copier, confirming it as the single most profitable product line.
 
-•	**Customer Segmentation**:
-Consumer customers represent 4 of 5 most profitable transactions, accounting for $21,336.82 in profit, while Corporate customers contribute $8,399.98.
-The high profitability of Consumer transactions highlights sustained margins even in smaller-scale purchases. 
- 
-**Business Interpretation**
-
-•	Product Focus: The Canon imageCLASS 2200 Advanced Copier drives most of the profit within this group.
-Maintaining strong supplier relationships, optimizing inventory, and offering bundled service plans for this line could further improve margins.
-
-•	Customer Insights: With Consumer transactions producing the majority of profits, targeted marketing, loyalty programs, and premium upsell campaigns could strengthen retention and revenue per order.
-
 ---
 
 ### Shipping Mode Analysis
@@ -92,11 +81,6 @@ Same Day has both the lowest sales volume and value, suggesting it is the least 
 
 •	Across all regions, Standard Class remains the dominant shipping mode, followed by Second Class and First Class.
 
-Recommendation
-
-•	Investigate the South region’s weaker sales performance by analyzing customer demographics, marketing reach, and product availability to identify potential demand gaps.
-
-•	Replicate successful strategies from the East and West regions — such as regional promotions, improved delivery speed, or inventory optimization — to boost overall sales performance.
 
 ---
 
@@ -105,11 +89,6 @@ Recommendation
 - Sales peaks are observed during March, May, September, and November, suggesting increased purchasing activity likely driven by promotional events, holidays, or seasonal demand cycles.
 
 Standard Class consistently leads in total sales volume throughout the year, showing stable customer preference for economical shipping.
-
-**Recommendation:**  
-Align marketing and promotional campaigns with high-sales months (March, May, September, November) to maximize seasonal revenue opportunities and promotional ROI.
-
-Maintain adequate inventory and staffing levels in advance of these peaks to ensure smooth order fulfillment.
 
 ---
 
