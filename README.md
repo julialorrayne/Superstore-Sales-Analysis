@@ -121,7 +121,6 @@ Discount and Sales have a slight negative correlation (r = -0.03), indicating th
 Quantity and Profit exhibit minimal correlation (r ≈ 0.07), meaning that selling more units doesn’t necessarily translate into higher profits — possibly due to product mix or variable pricing.
 
 
-
 ---
 
 ### Sales vs. Profit Correlation by Region
@@ -161,9 +160,7 @@ Promote them more aggressively and bundle complementary items to increase the or
 
 **3. Regional Performance**
 
-•	Both East and West regions show strong sales(generating $678K and $725K respectively) and positive profit correlation (r ≈ 0.52–0.65), indicating efficient operations and effective pricing.
-
--> Analyze their sales practices, promotional campaigns, and cost structures to replicate these models across other regions.
+•	Both East and West regions show strong sales(generating $678K and $725K respectively) and positive profit correlation (r ≈ 0.52–0.65), indicating efficient operations and effective pricing. Analyze their sales practices, promotional campaigns, and cost structures to replicate these models across other regions.
 
 •	South region underperforms in both sales and profitability. Conduct a deeper diagnostic into pricing, discounting, and delivery costs to identify inefficiencies.
 
