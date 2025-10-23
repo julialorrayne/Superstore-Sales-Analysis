@@ -43,10 +43,6 @@ Strategic recommendations include:
 •	**Technology** → Copiers accounts for 3 out of the Top-5 most profitable transactions, generating $20,159.94 in total profit and $41,999.88 in sales.
 These transactions all involve the Canon imageCLASS 2200 Advanced Copier, confirming it as the single most profitable product line.
 
-•	**Regional Performance**:
-The Central region contributes $17,976.83 (≈ 60.5%) of total Top-5 profit, followed by the West (22.6%) and East (16.9%) regions.
-This concentration indicates strong sales potential and operational efficiency in the Central region.
-
 •	**Customer Segmentation**:
 Consumer customers represent 4 of 5 most profitable transactions, accounting for $21,336.82 in profit, while Corporate customers contribute $8,399.98.
 The high profitability of Consumer transactions highlights sustained margins even in smaller-scale purchases. 
@@ -55,8 +51,6 @@ The high profitability of Consumer transactions highlights sustained margins eve
 
 •	Product Focus: The Canon imageCLASS 2200 Advanced Copier drives most of the profit within this group.
 Maintaining strong supplier relationships, optimizing inventory, and offering bundled service plans for this line could further improve margins.
-
-•	Regional Strategy: The Central region’s dominance indicates an opportunity to replicate its success model—review shipping efficiency, regional pricing, and sales incentives.
 
 •	Customer Insights: With Consumer transactions producing the majority of profits, targeted marketing, loyalty programs, and premium upsell campaigns could strengthen retention and revenue per order.
 
