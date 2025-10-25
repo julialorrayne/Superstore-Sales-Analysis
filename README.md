@@ -6,8 +6,8 @@ The goal of this project is to identify profit drivers, evaluate shipping effici
  
 **Tools Used:** Python (Pandas, Plotly, Scikit-learn, Matplotlib, NumPy)
 
-**Techniques:** Exploratory Data Analysis (EDA), Machine Learning Modeling, Correlation Analysis, Data Visualization, Business Insights  
-
+**Techniques:** Exploratory Data Analysis (EDA), Machine Learning Modeling, Correlation Analysis, Clustering, Data Visualization, Business Insights  
+Exploratory Data Analysis (EDA) · Feature Engineering · Data Visualization · Clustering · Predictive Modeling
 ---
 
 ## Data Structure Overview
